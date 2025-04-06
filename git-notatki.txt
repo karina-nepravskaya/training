@@ -1,0 +1,15 @@
+git clone - лонирует репозиторий на локильный компьютер
+git add - добавить файл в локальный репозиторий
+git commit -m "message text" - подтвердить изменения
+git status - состояние ветви
+git log - просмотреть историю коммитов
+git push - загрузить изменения на сервер
+git fetch + git merge = git pull - обновить логи и репозиторий
+
+hash-function
+head pointer - last commit (file refs/heads/main)
+refs/remotes/origin/main - remote repository
+index - where changes are stored until we commit them
+objects
+
+git checkout - отменить изменения когда не было коммита
