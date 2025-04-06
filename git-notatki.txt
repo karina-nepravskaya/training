@@ -15,3 +15,5 @@ objects
 git checkout - отменить изменения когда не было коммита
 
 AAAAAA KURWA
+
+nie nie kurwa
