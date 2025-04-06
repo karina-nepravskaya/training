@@ -13,3 +13,5 @@ index - where changes are stored until we commit them
 objects
 
 git checkout - отменить изменения когда не было коммита
+
+AAAAAA KURWA
